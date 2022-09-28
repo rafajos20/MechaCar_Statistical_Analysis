@@ -1,3 +1,4 @@
+![](Resources/mec0.png) 
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
 ## Summary
