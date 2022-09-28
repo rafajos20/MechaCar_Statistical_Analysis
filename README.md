@@ -46,3 +46,25 @@ The overall variance for all lots is 62.3 PSI, which meets design specifications
 ![](Resources/mec7.png)
 
 * P-Value for Lot 3 is 0.04 which is below our significance level of 0.05; reject null hypothesis.
+
+# Study Design: MechaCar vs Competition
+Statistical study on vehicle tailpipe emissions-MechaCar against competition
+
+### What metric or metrics are you going to test?
+
+* Metrics- vehicle emissions
+
+### What is the null hypothesis or alternative hypothesis?
+
+* Null Hypothesis- MechaCar produces equal or more emissions than it competition.
+* Alternative Hypothesis- MechaCar produces less emissions than its competition.
+
+### What statistical test would you use to test the hypothesis? And why?
+
+* T Tests can be ran between MechaCar and individual competitors to show direct comparisons.
+* ANOVA can be ran between MechaCar and multiple competitors to show overall comparisons.
+
+### What data is needed to run the statistical test?
+
+* Emissions from both MechaCar and its competitors.
+
