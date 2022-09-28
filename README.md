@@ -27,5 +27,22 @@ The overall variance for all lots is 62.3 PSI, which meets design specifications
 ## T-Tests on Suspension Coils
 ## Summary
 * All Manufacturing Lot T Test
-* 
+
 ![](Resources/mec4.png) 
+
+* P-Value for all lots is 0.06 which is above our significance level of 0.05; fail to reject null hypothesis.
+### Lot 1 T Test
+
+![](Resources/mec5.png)
+
+* P-Value for Lot 1 is 1 which is above our significance level of 0.05; fail to reject null hypothesis.
+### Lot 2 T Test
+
+![](Resources/mec6.png)
+
+* P-Value for Lot 2 is 0.06 which is above our significance level of 0.05; fail to reject null hypothesis.
+### Lot 3 T Test
+
+![](Resources/mec7.png)
+
+* P-Value for Lot 3 is 0.04 which is below our significance level of 0.05; reject null hypothesis.
