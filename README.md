@@ -23,3 +23,9 @@ The overall variance for all lots is 62.3 PSI, which meets design specifications
 ### Lot Variance
 
 ![](Resources/mec3.png) 
+
+## T-Tests on Suspension Coils
+## Summary
+* All Manufacturing Lot T Test
+* 
+![](Resources/mec4.png) 
