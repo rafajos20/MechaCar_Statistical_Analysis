@@ -19,3 +19,7 @@ The overall variance for all lots is 62.3 PSI, which meets design specifications
 ### Total Variance
 
 ![](Resources/mec2.png) 
+
+### Lot Variance
+
+![](Resources/mec3.png) 
