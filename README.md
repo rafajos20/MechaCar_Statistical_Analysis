@@ -8,3 +8,4 @@ Vehicle Length and Ground Clearance (as well as Intercept) are statistically unl
 The p-value from our model is below a significance level of 0.05% so we are able to reject the null hypothesis, identifying that the slope of this model is not zero.
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 The R-squared value for this model is 0.715 which shows that 71% of the observed variations can be explained by this models inputs, proving to be a good model to predict MPG effectively.
+![](Resources/mec1.png) 
